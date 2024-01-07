@@ -28,7 +28,13 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Orpheus | EN | 17.11.2023 |
 | Alpha | CZ | 14.11.2023 |
 | Beta | CZ | 14.11.2023 |
+| Kaikias | CZ | 7.1.2024 |
+| Lips | CZ | 7.1.2024 |
+| Notos | CZ | 7.1.2024 |
+| Pan | CZ | 7.1.2024 |
+| Poseidon | CZ | 7.1.2024 |
 | Skiron | CZ | 1.12.2023 |
+| Ares 3 | CZ | 7.1.2024 |
 | Theta | SK | 6.12.2023 |
 
 **News:**
