@@ -19,32 +19,37 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 ## Changelog   
 ### Version 1.1.0
 **Fully scanned servers:**
-| Server name | Country | Date |
-|---|---|---|
-| Pangaia 1 | EN | 5.12.2023 |
-| Pangaia 2 | EN | 17.11.2023 |
-| Pangaia 3 | EN | 28.1.2023 |
-| Pangaia 4 | EN | 15.11.2023 |
-| Pangaia 5 | EN | 28.1.2023 |
-| Pi | EN | 17.11.2023 |
-| Orpheus | EN | 17.11.2023 |
-| Zephyros | EN | 29.1.2023 |
-| Ares 3 | EN | 18.1.2023 |
-| Alpha | CZ | 14.11.2023 |
-| Beta | CZ | 14.11.2023 |
-| Kaikias | CZ | 7.1.2024 |
-| Lips | CZ | 7.1.2024 |
-| Notos | CZ | 7.1.2024 |
-| Pan | CZ | 7.1.2024 |
-| Poseidon | CZ | 7.1.2024 |
-| Skiron | CZ | 1.12.2023 |
-| Thanatos | CZ | 10.2.2023 |
-| Ares 3 | CZ | 7.1.2024 |
-| Theta | SK | 6.12.2023 |
+| Server name | Country | Date | Server number |
+|---|---|---|---|
+| Pangaia 1 | EN | 5.12.2023 | s301 |
+| Pangaia 2 | EN | 17.11.2023 | s302 |
+| Pangaia 3 | EN | 28.1.2023 | s303 |
+| Pangaia 4 | EN | 15.11.2023 | s304 |
+| Pangaia 5 | EN | 28.1.2023 | s305 |
+| Pi | EN | 17.11.2023 | s16 |
+| Zephyros | EN | 29.1.2023 | s44 |
+| Herakles | EN | 14.6.2024 | s45 |
+| Orpheus | EN | 17.11.2023 | s47 |
+| Kalliope | EN | 2.5.2024 | s56 |
+| Persephone | EN | 10.9.2024 | s58 |
+| Perseus | EN | 10.9.2024 | s59 |
+| Plutos | EN | 10.9.2024 | s60 |
+| Minotaurus | EN | 10.9.2024 | s61 |
+| Global 1 | EN | 12.4.2024 | s401 |
+| Alpha | CZ | 14.11.2023 | s1 |
+| Beta | CZ | 14.11.2023 | s2 |
+| Kaikias | CZ | 7.1.2024 | s36 |
+| Lips | CZ | 7.1.2024 | s37 |
+| Notos | CZ | 7.1.2024 | s38 |
+| Pan | CZ | 7.1.2024 | s39 |
+| Poseidon | CZ | 7.1.2024 | s40 |
+| Skiron | CZ | 1.12.2023 | s41 |
+| Thanatos | CZ | 10.2.2023 | s42 |
+| Zelos | CZ | 2.9.2024 | s43 |
+| Zephyros | CZ | 3.9.2024 | s44 |
+| Herakles | CZ | 9.9.2024 | s45 |
+| Hydra | CZ | 9.9.2024 | s46 |
+| Theta | SK | 6.12.2023 | s8 |
+| Alpha | ES | 26.2.2024 | s1 |
 
-**News:**
-- New commands
- - /palm
- - /inactive
- - Other new commands available in /commands or ?h \<command name>
  
