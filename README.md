@@ -26,7 +26,6 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Pangaia 3 | EN | 28.1.2023 | s303 |
 | Pangaia 4 | EN | 15.11.2023 | s304 |
 | Pangaia 5 | EN | 28.1.2023 | s305 |
-| Pi | EN | 17.11.2023 | s16 |
 | Zephyros | EN | 29.1.2023 | s44 |
 | Herakles | EN | 14.6.2024 | s45 |
 | Orpheus | EN | 17.11.2023 | s47 |
@@ -36,20 +35,10 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Plutos | EN | 10.9.2024 | s60 |
 | Minotaurus | EN | 10.9.2024 | s61 |
 | Global 1 | EN | 12.4.2024 | s401 |
-| Alpha | CZ | 14.11.2023 | s1 |
-| Beta | CZ | 14.11.2023 | s2 |
-| Kaikias | CZ | 7.1.2024 | s36 |
-| Lips | CZ | 7.1.2024 | s37 |
-| Notos | CZ | 7.1.2024 | s38 |
-| Pan | CZ | 7.1.2024 | s39 |
-| Poseidon | CZ | 7.1.2024 | s40 |
-| Skiron | CZ | 1.12.2023 | s41 |
 | Thanatos | CZ | 10.2.2023 | s42 |
 | Zelos | CZ | 2.9.2024 | s43 |
 | Zephyros | CZ | 3.9.2024 | s44 |
 | Herakles | CZ | 9.9.2024 | s45 |
 | Hydra | CZ | 9.9.2024 | s46 |
-| Theta | SK | 6.12.2023 | s8 |
-| Alpha | ES | 26.2.2024 | s1 |
 
  
