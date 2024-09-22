@@ -26,9 +26,6 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Pangaia 3 | EN | 28.1.2023 | s303 |
 | Pangaia 4 | EN | 15.11.2023 | s304 |
 | Pangaia 5 | EN | 28.1.2023 | s305 |
-| Zephyros | EN | 29.1.2023 | s44 |
-| Herakles | EN | 14.6.2024 | s45 |
-| Orpheus | EN | 17.11.2023 | s47 |
 | Kalliope | EN | 2.5.2024 | s56 |
 | Persephone | EN | 10.9.2024 | s58 |
 | Perseus | EN | 10.9.2024 | s59 |
