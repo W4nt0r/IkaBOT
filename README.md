@@ -13,7 +13,7 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 - /player countdown <player_name> - Returns cities of given player with expected miracles countdown.
 - /commands - Displays the rest of commands
 ## Adding BOT to your discord server
- - Use this [link](https://discord.com/oauth2/authorize?client_id=591351746123530259&scope=bot&permissions=8 "Invitation link")
+ - Use this [link](https://discord.com/oauth2/authorize?client_id=470158116034445313&scope=bot&permissions=8 "Invitation link")
  - Follow instructions given by discord
  - BOT should appear on your server
  - Write /reg to desired channel to register your channel and guild to BOT
