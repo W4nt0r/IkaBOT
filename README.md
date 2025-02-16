@@ -38,6 +38,7 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Plutos | EN | 10.9.2024 | s60 |
 | Minotaurus | EN | 10.9.2024 | s61 |
 | Medusa | EN | 15.12.2024 | s62 |
+| Theseus | EN | 16.2.2025 | s63 |
 | Global 1 | EN | 12.4.2024 | s401 |
 | Global 1 | EN | 23.9.2024 | s402 |
 | Thanatos | CZ | 10.2.2023 | s42 |
@@ -46,6 +47,7 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Herakles | CZ | 9.9.2024 | s45 |
 | Hydra | CZ | 9.9.2024 | s46 |
 | Orpheus | CZ | 15.12.2024 | s47 |
+| Acheron | CZ | 16.2.2025 | s48 |
 | Perseus | PL | 15.10.2024 | s59 |
 | Plutos | PL | 15.10.2024 | s60 |
 | Minotaurus | PL | 15.10.2024 | s61 |
