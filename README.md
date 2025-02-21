@@ -52,6 +52,7 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Plutos | PL | 15.10.2024 | s60 |
 | Minotaurus | PL | 15.10.2024 | s61 |
 | Medusa | PL | 15.10.2024 | s62 |
+| Theseus | PL | 21.2.2024 | s63 |
 | Kreon | US | 3.10.2024 | s54 |
 | Minotaurus | FR | 28.11.2024 | s61 |
 | Perseus | GR | 28.11.2024 | s59 |
