@@ -39,6 +39,8 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Minotaurus | EN | 10.9.2024 | s61 |
 | Medusa | EN | 15.12.2024 | s62 |
 | Theseus | EN | 16.2.2025 | s63 |
+| Kronos | EN | 8.6.2025 | s64 |
+| Zelus | EN | 11.9.2025 | s65 |
 | Global 1 | EN | 12.4.2024 | s401 |
 | Global 1 | EN | 23.9.2024 | s402 |
 | Thanatos | CZ | 10.2.2023 | s42 |
@@ -48,14 +50,21 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Hydra | CZ | 9.9.2024 | s46 |
 | Orpheus | CZ | 15.12.2024 | s47 |
 | Acheron | CZ | 16.2.2025 | s48 |
+| Kerberos | CZ | 10.5.2025 | s49 |
+| Hera | CZ | 21.7.2025 | s50 |
 | Perseus | PL | 15.10.2024 | s59 |
 | Plutos | PL | 15.10.2024 | s60 |
 | Minotaurus | PL | 15.10.2024 | s61 |
 | Medusa | PL | 15.10.2024 | s62 |
 | Theseus | PL | 21.2.2024 | s63 |
+| Eurydike | US | 18.10.2024 | s53 |
 | Kreon | US | 3.10.2024 | s54 |
+| Plutos | FR | 3.3.2025 | s60 |
 | Minotaurus | FR | 28.11.2024 | s61 |
 | Perseus | GR | 28.11.2024 | s59 |
 | Hydra | HU | 9.2.2025 | s46 |
 | Orpheus | HU | 9.2.2025 | s47 |
 | Kerberos | HU | 9.2.2025 | s49 |
+| Telemachos | AE | 27.3.2025 | s57 |
+| Zelus | TR | 12.4.2025 | s65 |
+
