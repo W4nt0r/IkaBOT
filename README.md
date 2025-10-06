@@ -60,7 +60,6 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Eurydike | US | 18.10.2024 | s53 |
 | Kreon | US | 3.10.2024 | s54 |
 | Plutos | FR | 3.3.2025 | s60 |
-| Minotaurus | FR | 28.11.2024 | s61 |
 | Perseus | GR | 28.11.2024 | s59 |
 | Hydra | HU | 9.2.2025 | s46 |
 | Orpheus | HU | 9.2.2025 | s47 |
