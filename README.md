@@ -23,48 +23,48 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 ## Changelog   
 ### Version 1.1.1
 **Fully scanned servers:**
-| Server name | Country | Date | Server number |
-|---|---|---|---|
-| Pangaia 1 | EN | 5.12.2023 | s301 |
-| Pangaia 2 | EN | 17.11.2023 | s302 |
-| Pangaia 3 | EN | 28.1.2023 | s303 |
-| Pangaia 4 | EN | 15.11.2023 | s304 |
-| Pangaia 5 | EN | 28.1.2023 | s305 |
-| Hekabe | EN | 12.10.2024 | s55 |
-| Kalliope | EN | 2.5.2024 | s56 |
-| Telemachos | EN | 12.10.2024 | s57 |
-| Persephone | EN | 10.9.2024 | s58 |
-| Perseus | EN | 10.9.2024 | s59 |
-| Plutos | EN | 10.9.2024 | s60 |
-| Minotaurus | EN | 10.9.2024 | s61 |
-| Medusa | EN | 15.12.2024 | s62 |
-| Theseus | EN | 16.2.2025 | s63 |
-| Kronos | EN | 8.6.2025 | s64 |
-| Zelus | EN | 11.9.2025 | s65 |
-| Global 1 | EN | 12.4.2024 | s401 |
-| Global 1 | EN | 23.9.2024 | s402 |
-| Thanatos | CZ | 10.2.2023 | s42 |
-| Zelos | CZ | 2.9.2024 | s43 |
-| Zephyros | CZ | 3.9.2024 | s44 |
-| Herakles | CZ | 9.9.2024 | s45 |
-| Hydra | CZ | 9.9.2024 | s46 |
-| Orpheus | CZ | 15.12.2024 | s47 |
-| Acheron | CZ | 16.2.2025 | s48 |
-| Kerberos | CZ | 10.5.2025 | s49 |
-| Hera | CZ | 21.7.2025 | s50 |
-| Perseus | PL | 15.10.2024 | s59 |
-| Plutos | PL | 15.10.2024 | s60 |
-| Minotaurus | PL | 15.10.2024 | s61 |
-| Medusa | PL | 15.10.2024 | s62 |
-| Theseus | PL | 21.2.2024 | s63 |
-| Helios | PL | 12.10.2025 | s67 |
-| Eurydike | US | 18.10.2024 | s53 |
-| Kreon | US | 3.10.2024 | s54 |
-| Plutos | FR | 3.3.2025 | s60 |
-| Perseus | GR | 28.11.2024 | s59 |
-| Hydra | HU | 9.2.2025 | s46 |
-| Orpheus | HU | 9.2.2025 | s47 |
-| Kerberos | HU | 9.2.2025 | s49 |
-| Telemachos | AE | 27.3.2025 | s57 |
+| Server name | Country | Date | Server number | Community code |
+|---|---|---|---|---|
+| Pangaia 1 | EN | 5.12.2023 | s301 | c2 |
+| Pangaia 2 | EN | 17.11.2023 | s302 | c2 |
+| Pangaia 3 | EN | 28.1.2023 | s303 | c2 |
+| Pangaia 4 | EN | 15.11.2023 | s304 | c2 |
+| Pangaia 5 | EN | 28.1.2023 | s305 | c2 |
+| Hekabe | EN | 12.10.2024 | s55 | c2 |
+| Kalliope | EN | 2.5.2024 | s56 | c2 |
+| Telemachos | EN | 12.10.2024 | s57 | c2 |
+| Persephone | EN | 10.9.2024 | s58 | c2 |
+| Perseus | EN | 10.9.2024 | s59 | c2 |
+| Plutos | EN | 10.9.2024 | s60 | c2 |
+| Minotaurus | EN | 10.9.2024 | s61 | c2 |
+| Medusa | EN | 15.12.2024 | s62 | c2 |
+| Theseus | EN | 16.2.2025 | s63 | c2 |
+| Kronos | EN | 8.6.2025 | s64 | c2 |
+| Zelus | EN | 11.9.2025 | s65 | c2 |
+| Global 1 | EN | 12.4.2024 | s401 | c2 |
+| Global 1 | EN | 23.9.2024 | s402 | c2 |
+| Thanatos | CZ | 10.2.2023 | s42 | c11 |
+| Zelos | CZ | 2.9.2024 | s43 | c11 |
+| Zephyros | CZ | 3.9.2024 | s44 | c11 |
+| Herakles | CZ | 9.9.2024 | s45 | c11 |
+| Hydra | CZ | 9.9.2024 | s46 | c11 |
+| Orpheus | CZ | 15.12.2024 | s47 | c11 |
+| Acheron | CZ | 16.2.2025 | s48 | c11 |
+| Kerberos | CZ | 10.5.2025 | s49 | c11 |
+| Hera | CZ | 21.7.2025 | s50 | c11 |
+| Perseus | PL | 15.10.2024 | s59 | c31 |
+| Plutos | PL | 15.10.2024 | s60 | c31 |
+| Minotaurus | PL | 15.10.2024 | s61 | c31 |
+| Medusa | PL | 15.10.2024 | s62 | c31 |
+| Theseus | PL | 21.2.2024 | s63 | c31 |
+| Helios | PL | 12.10.2025 | s67 | c31 |
+| Eurydike | US | 18.10.2024 | s53 | c42 |
+| Kreon | US | 3.10.2024 | s54 | c42 |
+| Plutos | FR | 3.3.2025 | s60 | c15 |
+| Perseus | GR | 28.11.2024 | s59 | c16 |
+| Hydra | HU | 9.2.2025 | s46 | c18 |
+| Orpheus | HU | 9.2.2025 | s47 | c18 |
+| Kerberos | HU | 9.2.2025 | s49 | c18 |
+| Telemachos | AE | 27.3.2025 | s57 | c41 |
 | Zelus | TR | 12.4.2025 | s65 |
 
