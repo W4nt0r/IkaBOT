@@ -30,17 +30,19 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Pangaia 3 | EN | 28.1.2023 | s303 | c2 |
 | Pangaia 4 | EN | 15.11.2023 | s304 | c2 |
 | Pangaia 5 | EN | 28.1.2023 | s305 | c2 |
-| Hekabe | EN | 12.10.2024 | s55 | c2 |
-| Kalliope | EN | 2.5.2024 | s56 | c2 |
-| Telemachos | EN | 12.10.2024 | s57 | c2 |
 | Persephone | EN | 10.9.2024 | s58 | c2 |
 | Perseus | EN | 10.9.2024 | s59 | c2 |
 | Plutos | EN | 10.9.2024 | s60 | c2 |
 | Minotaurus | EN | 10.9.2024 | s61 | c2 |
 | Medusa | EN | 15.12.2024 | s62 | c2 |
-| Theseus | EN | 16.2.2025 | s63 | c2 |
 | Kronos | EN | 8.6.2025 | s64 | c2 |
 | Zelus | EN | 11.9.2025 | s65 | c2 |
+| Helios | EN | 26.1.2026 | s67 | c2 |
+| Themis | EN | 12.3.2026 | s68 | c2 |
+| Erida | EN | 24.3.2026 | s69 | c2 |
+| Nereus | EN | 24.3.2026 | s70 | c2 |
+| Leto | EN | 24.3.2026 | s71 | c2 |
+| Okeanos | EN | 24.3.2026 | s72 | c2 |
 | Global 1 | EN | 12.4.2024 | s401 | c2 |
 | Global 1 | EN | 23.9.2024 | s402 | c2 |
 | Thanatos | CZ | 10.2.2023 | s42 | c11 |
@@ -62,7 +64,7 @@ This bot is Ikariam BOT for Discord. Shows alliances, players, growth of players
 | Eurydike | US | 18.10.2024 | s53 | c42 |
 | Kreon | US | 3.10.2024 | s54 | c42 |
 | Plutos | FR | 3.3.2025 | s60 | c15 |
-| Perseus | GR | 28.11.2024 | s59 | c16 |
+| Nereus | GR | 24.3.2026 | s70 | c16 |
 | Hydra | HU | 9.2.2025 | s46 | c18 |
 | Orpheus | HU | 9.2.2025 | s47 | c18 |
 | Kerberos | HU | 9.2.2025 | s49 | c18 |
